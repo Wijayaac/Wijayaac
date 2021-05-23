@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm Wijaya, a junior full stack developer, self taught desainer and also programmer. Now i specializes on Front End Development and also WordPress Developer.
+I'm Wijaya, a junior full stack developer, self taught designer and also programmer. Now i specializes on Front End Development and also WordPress Developer.
 
 I start my journey become programmer, because i want exploring the user need, and translate into unique website base on their value. And make sure the perfomance is blazingly fast for every situation.
 
