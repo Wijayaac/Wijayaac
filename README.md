@@ -4,8 +4,6 @@
 
 Hey there 👋
 
-I'm Wijaya, a junior full stack developer, self taught designer and also programmer. Now i specializes on Front End Development and also WordPress Developer.
-
-I start my journey become programmer, because i want exploring the user need, and translate into unique website base on their value. And make sure the perfomance is blazingly fast for every situation.
+I'm Wijaya, I love software engineering and mostly work with frontend stuff, work together with ui/ux researcher, project manager and stakeholder are my day to day live. Now I am work with Shopify Platform either it's App, Theme and a and also WordPress Developer Plugins, Theme.
 
 Want to know more about me? [Check out my portfolio.](https://wijayaac.netlify.app)
